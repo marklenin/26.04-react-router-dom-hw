@@ -56,7 +56,7 @@ function Navbar() {
                 textDecoration: "none",
               }}
             >
-              Home Page
+              HomePage
             </Typography>
           </Link>
 
